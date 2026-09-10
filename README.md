@@ -4,7 +4,7 @@
 > This repository contains a complete end-to-end Power BI case study as part of multiple business assignments during my internship.
 
 ### 🔗 Live Dashboard Preview
-All 7 dashboards are available in `/Dashboards` folder. Final master dashboard combines all insights.
+All 7 dashboards are available in zip file. Final master dashboard combines all insights.
 
 ### 📌 Project Overview
 **Client Problem:** Analyze investor behavior to understand preferences for investment avenues, savings objectives, duration, and information sources.
